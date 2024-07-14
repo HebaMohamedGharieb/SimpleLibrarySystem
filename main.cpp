@@ -1,7 +1,5 @@
 // The Library System
 //The main user for the system is an admin
-//I am so lonely broken angle, I am so lonely listen to my heart
-//I try to live in black and white, but I am so blue
 
 #include <iostream>
 #include <vector>
